@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 259722201df052245834f12c28a2cce9, type: 3}
+  m_Name: "C-\u9EC4\u91D1\u9762\u7F69"
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemQuality: 1
+  itemName: Gold Flask
+  itemName_Chinese: "\u9EC4\u91D1\u9762\u7F69"
+  icon: {fileID: 21300000, guid: 9ec1856461f62a44f85a10cf2f15e4d1, type: 3}
+  itemID: 8db5c708603083141846d2c822f9f3fa
+  dropChance: 100
+  equipmentType: 4
+  itemEffects:
+  - {fileID: 11400000, guid: 458cf8020f1442c4ea5ffa8e63dfaa72, type: 2}
+  strength: 2
+  agility: 0
+  intelligence: 0
+  vitaliy: 0
+  maxHP: 5
+  armor: 2
+  evasion: 2
+  magicResistance: 0
+  damage: 0
+  critChance: 1
+  critPower: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  requiredCraftMaterials: []
+  equipmentSuitEffect: {fileID: 11400000, guid: d71d2f5ba9c8b424bab70838a191453c, type: 2}

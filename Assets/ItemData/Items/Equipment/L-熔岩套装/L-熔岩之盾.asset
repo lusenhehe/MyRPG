@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 259722201df052245834f12c28a2cce9, type: 3}
+  m_Name: "L-\u7194\u5CA9\u4E4B\u76FE"
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemQuality: 4
+  itemName: Fiery Shield
+  itemName_Chinese: "\u7194\u5CA9\u4E4B\u76FE"
+  icon: {fileID: 21300000, guid: 6aebec90190fea547a1ac2ff431c9f7e, type: 3}
+  itemID: d59c96a85da4a1c43b45218b44cc60f7
+  dropChance: 100
+  equipmentType: 6
+  itemEffects: []
+  strength: 0
+  agility: 4
+  intelligence: 0
+  vitaliy: 0
+  maxHP: 0
+  armor: 30
+  evasion: 3
+  magicResistance: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  fireDamage: 5
+  iceDamage: 0
+  lightningDamage: 0
+  requiredCraftMaterials: []
+  equipmentSuitEffect: {fileID: 11400000, guid: 9b83eaa306b3c354ea13106605dd23ae, type: 2}

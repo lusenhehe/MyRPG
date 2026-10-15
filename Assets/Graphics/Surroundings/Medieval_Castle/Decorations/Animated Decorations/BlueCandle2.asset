@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: BlueCandle2
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 74e81d541d7e4cb46a50865a34b5fcea, type: 3}
+  - {fileID: 21300000, guid: a9ba096e5925180418c33529b37605af, type: 3}
+  - {fileID: 21300000, guid: a196b5bfbbea43644ab847b098ed7fab, type: 3}
+  - {fileID: 21300000, guid: 6d7f9a9a63a4dbb498aa7d3be5451039, type: 3}
+  - {fileID: 21300000, guid: 2a648c89b7a240c4f8ba6ed51096646b, type: 3}
+  - {fileID: 21300000, guid: 0b8f9169ffe35a84d9b9a25dfeaac363, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

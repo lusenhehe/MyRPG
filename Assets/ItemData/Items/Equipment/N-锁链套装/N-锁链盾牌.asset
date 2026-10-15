@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 259722201df052245834f12c28a2cce9, type: 3}
+  m_Name: "N-\u9501\u94FE\u76FE\u724C"
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemQuality: 0
+  itemName: "\u9501\u94FE\u76FE\u724C"
+  itemName_Chinese: "\u9501\u94FE\u76FE\u724C"
+  icon: {fileID: 21300000, guid: 7c899ecb7d48bc046a50461564ab632d, type: 3}
+  itemID: a9801654c8a47584883bbd955205dfcd
+  dropChance: 100
+  equipmentType: 6
+  itemEffects: []
+  strength: 3
+  agility: 0
+  intelligence: 0
+  vitaliy: 0
+  maxHP: 3
+  armor: 3
+  evasion: 0
+  magicResistance: 0
+  damage: 3
+  critChance: 3
+  critPower: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  requiredCraftMaterials:
+  - item: {fileID: 11400000, guid: 148229420c8846c4baf9576b4f920db5, type: 2}
+    stackSize: 0
+  equipmentSuitEffect: {fileID: 11400000, guid: 575febff249c6ed499a71333b93a1838, type: 2}

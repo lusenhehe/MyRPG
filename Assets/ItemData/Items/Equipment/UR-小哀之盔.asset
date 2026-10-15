@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 259722201df052245834f12c28a2cce9, type: 3}
+  m_Name: "UR-\u5C0F\u54C0\u4E4B\u76D4"
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemQuality: 5
+  itemName: "\u5C0F\u54C0"
+  itemName_Chinese: "\u5C0F\u54C0"
+  icon: {fileID: 21300000, guid: 8056ae185de519949a99af971e5c8e5c, type: 3}
+  itemID: 99ddc5855c3236743b17b4678ace08fe
+  dropChance: 100
+  equipmentType: 1
+  itemEffects: []
+  strength: 999
+  agility: 999
+  intelligence: 999
+  vitaliy: 999
+  maxHP: 99999
+  armor: 99999
+  evasion: 99999
+  magicResistance: 99999
+  damage: 999
+  critChance: 999
+  critPower: 999
+  fireDamage: 999
+  iceDamage: 999
+  lightningDamage: 999
+  requiredCraftMaterials: []

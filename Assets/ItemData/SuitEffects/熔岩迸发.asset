@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93775c11944e39c4facb1ff01c461426, type: 3}
+  m_Name: "\u7194\u5CA9\u8FF8\u53D1"
+  m_EditorClassIdentifier: 
+  effectName: "\u7194\u5CA9\u8FF8\u53D1"
+  sprite: {fileID: 21300000, guid: 78331762b1325d64ca33f49c095c893a, type: 3}
+  descriptionWithTwo: IncreaseFireDmgBy 200%
+  description_ChineseWithTwo: "\u706B\u7130\u4F24\u5BB3\u63D0\u9AD8200%"
+  descriptionWithFour: IncreaseFireDmgBy 1000%
+  description_ChineseWithFour: "\u706B\u7130\u4F24\u5BB3\u63D0\u9AD81000%"
+  FireDmgMultiple: 2
+  FireDmgMultipleHigh: 10

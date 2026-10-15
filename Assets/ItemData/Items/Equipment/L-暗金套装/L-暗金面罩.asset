@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 259722201df052245834f12c28a2cce9, type: 3}
+  m_Name: "L-\u6697\u91D1\u9762\u7F69"
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemQuality: 4
+  itemName: Darkgold Flask
+  itemName_Chinese: "\u6697\u91D1\u9762\u7F69"
+  icon: {fileID: 21300000, guid: 7ef48b68f3312194a8ba6743787556f6, type: 3}
+  itemID: 7c5fb54d264193943bb8c3825045c204
+  dropChance: 100
+  equipmentType: 4
+  itemEffects:
+  - {fileID: 11400000, guid: 7ed9062b6919fe74fb972bf5eebd4636, type: 2}
+  strength: 10
+  agility: 0
+  intelligence: 0
+  vitaliy: 0
+  maxHP: 10
+  armor: 10
+  evasion: 5
+  magicResistance: 0
+  damage: 0
+  critChance: 0
+  critPower: 5
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  requiredCraftMaterials: []
